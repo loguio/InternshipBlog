@@ -1,0 +1,10 @@
+link{
+    color:aliceblue;
+}
+
+li{
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 21%;
+
+}
